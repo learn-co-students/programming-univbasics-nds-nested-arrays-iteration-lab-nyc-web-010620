@@ -23,3 +23,15 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
 end
+
+( [ [Steak], [Chips]....[Ceral]])
+Food = {'Steak','Chips','Ceral'}
+
+Food = 1x3 cell array
+    {'Steak'}    {'Chips'}    {'Ceral'}
+    
+    "I love (0) on my pizza and a side of (1)
+    
+    
+    
+    
